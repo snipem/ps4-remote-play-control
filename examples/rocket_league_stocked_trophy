@@ -1,5 +1,9 @@
 #!/bin/sh
 source Xperia_Z2_Tablet/coords_portrait
 
-./press $L_LEFT 99999999 &
 ./press $R2 99999999 &
+while true
+do
+	./press $CROSS
+	sleep 1
+done
