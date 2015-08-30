@@ -1,0 +1,18 @@
+export UP="190 600"
+export DOWN="190 780"
+export LEFT="100 685"
+export RIGHT="255 700"
+
+export CROSS="1733 795"
+export CIRCLE="1856 690"
+export SQUARE="1645 682"
+export TRIANGLE="1744 590"
+
+export OPTIONS=""
+export SHARE=""
+export PSBUTTON=""
+
+export L1="236 432"
+export R1="1658 421"
+export L2="133 337"
+export R2="1782 333"

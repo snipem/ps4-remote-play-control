@@ -1,0 +1,28 @@
+export UP="217 1500"
+export DOWN="223 1500"
+export LEFT="150 1450"
+export RIGHT="300 1450"
+
+export L_UP="280 1638"
+export L_DOWN="291 1778"
+export L_LEFT="215 1707"
+export L_RIGHT="351 1712"
+
+export R_UP="900 1638"
+export R_DOWN="900 1778"
+export R_LEFT="832 1707"
+export R_RIGHT="981 1712"
+
+export CROSS="970 1533"
+export CIRCLE="1065 1446"
+export SQUARE="868 1430"
+export TRIANGLE="967 1332"
+
+export OPTIONS="918 1893"
+export SHARE="280 1893"
+export PSBUTTON="600 1889"
+
+export L1="300 1168"
+export R1="908 1174"
+export L2="189 1090"
+export R2="1035 1038"
